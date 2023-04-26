@@ -95,7 +95,7 @@
       <dependency>
         <groupId>org.codehaus.sonar</groupId>
         <artifactId>sonar-testing-harness</artifactId>
-        <version>${sonar.version}</version>
+        <version>5.1</version>
       </dependency>
 
       <dependency>
